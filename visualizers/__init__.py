@@ -1,0 +1,5 @@
+from .visualizer_selection import SortingVisualizerPage
+from .visualizer_quick_mot import QuickSortVisualizerPage
+from .visualizer_quick_first import QuickSortFirstVisualizerPage
+from .visualizer_quick_last import QuickSortLastVisualizerPage
+from .visualizer_quick_true import QuickSortTrueVisualizerPage
